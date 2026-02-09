@@ -1,0 +1,12 @@
+# System files
+Thumbs.db
+Desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Temporary files
+*.tmp
+*.log
