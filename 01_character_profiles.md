@@ -19,10 +19,10 @@
 | **Vehicle** | Yamaha Sniper 135 (Underbone) |
 
 #### Family Background
-- **Mother:** Elena Yoro — Hardworking single mother, works as a government clerk. Quietly supportive but carries disappointment from David's original timeline failures.
-- **Father:** Separated since David was young. Minimal contact.
-- **Grandmother:** Lola Consuelo — The emotional anchor. Traditional Davaoeña who keeps the household together.
-- **Grandfather (deceased):** Lolo Andres — Died 2009. Played banjo, 12-string guitar, and ukulele. David's earliest musical influence.
+- **Mother:** Gina Yoro — Hardworking single mother, works as a government clerk. Quietly supportive but carries disappointment from David's original timeline failures.
+- **Father:** Noli Yoro — Separated. Minimal contact.
+- **Grandmother:** Lola Erlinda Sarigumba — The emotional anchor. Traditional Davaoeña who keeps the household together.
+- **Grandfather (deceased):** Lolo Cesario Sarigumba — Died 2009. Played banjo, 12-string guitar, and ukulele. David's earliest musical influence.
 
 #### Technical Profile
 
@@ -141,7 +141,7 @@ David now understands: Professor Villanueva was building a foundation. This time
 
 ---
 
-### Elena Yoro — The Mother
+### Gina Yoro — The Mother
 
 | Attribute | Detail |
 |-----------|--------|
@@ -157,7 +157,7 @@ David sees the exhaustion in her eyes. His goal: become someone she can be proud
 
 ---
 
-### Lola Consuelo — The Grandmother
+### Lola Erlinda Sarigumba — The Grandmother
 
 | Attribute | Detail |
 |-----------|--------|
@@ -170,6 +170,28 @@ David pushed her away during his spiral. Missed her final years.
 
 **Second Chance:**
 Be present. Make her remaining time meaningful. Let her see him succeed.
+
+---
+
+## The Mandug Boys (Home Friends)
+
+### Christian "Yanyan" Ligo
+- **Nickname:** Yanyan
+- **Age:** 17 (Same as David)
+- **Dynamic:** The philosopher peer.
+- **Subplot:** Struggling with his own family problems.
+- **Location:** The Dike (Mandug).
+- **Theme:** "It is what it is."
+
+### Angelo "Bonsoy" Hicom
+- **Nickname:** Bonsoy
+- **Age:** 14 (3 years younger)
+- **Dynamic:** The little brother figure.
+- **Subplot:** Wants to escape his chaotic "compound family" life.
+- **Connection:** Looks up to David for leaving Mandug to go to DCNHS.
+
+**The Dike Ritual:**
+Whenever David returns to Mandug, the three gather at the dike to talk about life, philosophy, and their struggles. It is David's grounding point away from the high-pressure world of the Arts School.
 
 ---
 
@@ -197,5 +219,6 @@ From Baritone (supporting roles, villains) → Tenor (the hero, the star). The p
 | **Cel Pagtalunan** | Mezzo | The Politician | Will network her way to the top |
 | **Rafe Montoya** | Tenor | The Mirror | David's rival and former self |
 | **Prof. Villanueva** | Bass-Baritone | The Mentor | Builds foundations, not showboats |
-| **Elena Yoro** | — | The Mother | Quietly waiting to be proud |
-| **Lola Consuelo** | — | The Anchor | The warmth David almost lost |
+| **Gina Yoro** | — | The Mother | Quietly waiting to be proud |
+| **Lola Erlinda** | — | The Anchor | The warmth David almost lost |
+| **Yanyan & Bonsoy** | — | The Mandug Boys | Grounding reality check at the Dike |
